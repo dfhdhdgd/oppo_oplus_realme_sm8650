@@ -15,7 +15,7 @@ on:
         description: 'KernelSU分支(BakaSU/SukiSU Ultra/KernelSU Next/KSU(原版)/无内置KSU,默认BakaSU)'
         required: true
         type: choice
-        default: 'bakasu'
+        default: 'sukisu'
         options:
           - 'bakasu'
           - 'sukisu'
